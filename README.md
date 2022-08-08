@@ -1,0 +1,1 @@
+# Pj para fins didaticos em .NET Core
