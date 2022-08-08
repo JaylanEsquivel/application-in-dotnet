@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\bin\Debug\net6.0\projetopiloto.exe
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\bin\Debug\net6.0\projetopiloto.deps.json
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\bin\Debug\net6.0\projetopiloto.runtimeconfig.json
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\bin\Debug\net6.0\projetopiloto.dll
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\bin\Debug\net6.0\projetopiloto.pdb
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\obj\Debug\net6.0\projetopiloto.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\obj\Debug\net6.0\projetopiloto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\obj\Debug\net6.0\projetopiloto.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\obj\Debug\net6.0\projetopiloto.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\obj\Debug\net6.0\projetopiloto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\obj\Debug\net6.0\projetopiloto.dll
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\obj\Debug\net6.0\refint\projetopiloto.dll
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\obj\Debug\net6.0\projetopiloto.pdb
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\obj\Debug\net6.0\projetopiloto.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\dotnet-projects\projetopiloto\obj\Debug\net6.0\ref\projetopiloto.dll
